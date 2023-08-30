@@ -22,7 +22,7 @@ You can [generate](https://github.com/rundocs/starter-slim/generate) with the sa
 
 ## Usage
 
-Documentation that can guide how to create with Github pages, please refer to [rundocs.io](https://rundocs.io) for details
+Documentation that can guide how to create with Github pages, please refer to [docs.readthedocs.io](https://docs.readthedocs.io/en/stable/tutorial/index.html)) for details
 
 ## Features
 
